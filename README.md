@@ -3,7 +3,7 @@ Simple WebCam Recorder with python
 
 ### Functions ###
 - Mirrored Cam (hflip)
-- Record Video
+- Video Record
 - Simple Effect (Negative image)
 
 ### Controls ###
@@ -13,7 +13,7 @@ Simple WebCam Recorder with python
 
 ### Notice ###
 - When Recording, red dot appears in topleft.
-- Recorded Video is saved as "Date.avi".
+- Recorded Video is saved as "%Y-%m-%d %H:%M:%S.avi".
 
 ### Screenshots ###
 ![sample_1](https://github.com/user-attachments/assets/e0f91125-f070-4afd-96e1-473c738b7238)
